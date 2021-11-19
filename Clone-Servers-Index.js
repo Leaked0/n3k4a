@@ -1,5 +1,6 @@
 //https://github.com/Toxic-Library/Clone-Servers/blob/main/index.js
 
+// Weird this one is older and looks similary(it's not completelly deobed here): https://github.com/kiIogram/Discord-Server-Cloner/blob/main/index.js
 
 const Discord = require('discord.js'),
 	client = new Discord.Client(),
